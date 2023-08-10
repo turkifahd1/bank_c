@@ -1,0 +1,1 @@
+E:\Projects\bank\bank\bin\Debug\bank.exe.config
